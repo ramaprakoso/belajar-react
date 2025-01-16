@@ -6,6 +6,7 @@ export default function TodoList() {
             id: 0,
             text: "Belajar HTML",
             isCompleted: true,
+            isDeleted: true,
         },
         {
             id: 1,
